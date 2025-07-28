@@ -1,0 +1,25 @@
+# Node modules
+node_modules/
+client/node_modules/
+backend/node_modules/
+
+# Logs
+*.log
+npm-debug.log*
+
+# dotenv files
+.env
+client/.env
+backend/.env
+
+# Build outputs
+dist/
+build/
+client/dist/
+client/build/
+backend/dist/
+backend/build/
+
+# OS generated
+.DS_Store
+Thumbs.db
