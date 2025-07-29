@@ -14,7 +14,7 @@ const port = process.env.PORT || 5000;
 app.use(cookieParser());
 app.use(express.json());
 app.use(cors({
-  origin: "http://localhost:5173", 
+  origin: "https://appverse-ecommerce-frontend.onrender.com", 
   credentials: true               
 }));
 
