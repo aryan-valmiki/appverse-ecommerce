@@ -77,7 +77,7 @@ const register = asyncHandler(async (req, res) => {
 
 const logout = asyncHandler(async (req, res) => {
     const options = {
-        httpOnly: true,
+        httpOnly: false,
         secure: true,
         sameSite: "None",
     }
