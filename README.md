@@ -1,34 +1,37 @@
-# 🛍️ ShopVerse - (MERN Stack)
+# 🛍️ ShopVerse - MERN Stack eCommerce App
 
-ShopVerse is a full-stack eCommerce web application built with the MERN stack. It supports features like user authentication, product listings, cart management, admin product upload, and order placement.
+Hi, I'm Aryan Valmiki — a passionate MERN Stack Developer.
+
+**ShopVerse** is a full-featured eCommerce web application. It was built using the MERN stack with a focus on real-world functionality, clean UI, and scalable architecture. From user authentication to admin product uploads and secure order placement — this project covers it all.
 
 ---
 
 ## 🚀 Features
 
-### 🧑‍💻 User
-- Register/Login/Logout with JWT
-- View all products
-- Add/Remove items from cart
-- Place orders
-- View order summary
+### 👤 User Features
+- 🔐 Register / Login / Logout using JWT authentication
+- 🛒 View all products
+- ➕ Add / Remove items from cart
+- ✅ Place orders
+- 📦 View your order summary
 
-### 👩‍💼 Admin
-- Upload new products
-- Manage product listings
-- View all orders
+### 🛠️ Admin Features
+- 📤 Upload new products
+- 🧾 Manage product listings
+- 📚 View all orders
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Tech Stack
 
-| Category       | Tech                                   |
+| Category       | Tech Stack                             |
 |----------------|----------------------------------------|
 | Frontend       | React.js, Tailwind CSS, Vite           |
-| State Mgmt     | useState, useEffect, Redux, useForm  |
+| State Mgmt     | useState, useEffect, Redux Toolkit     |
 | Backend        | Node.js, Express.js                    |
-| Database       | MongoDB (MongoDB Atlas)                |
+| Database       | MongoDB (Atlas)                        |
 | Authentication | JWT (JSON Web Token)                   |
-| Deployment     | Render (API)          |
+| Deployment     | Render (Backend & Frontend)            |
 
 ---
+Check it out live: Deployed Link = https://appverse-ecommerce-frontend.onrender.com/
